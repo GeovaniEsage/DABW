@@ -1,4 +1,4 @@
 #requirements.txt
---prerelease=allow
+-prerelease==allow
 snowflake-snowpark-python
 streamlit
